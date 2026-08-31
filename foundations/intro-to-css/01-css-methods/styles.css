@@ -1,0 +1,20 @@
+
+.first{
+    background: red;
+    padding: 10px;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+    color:white;
+}
+
+.second{
+    background: green;
+    color: white;
+}
+
+button{
+    background: orange;
+    
+}
+
