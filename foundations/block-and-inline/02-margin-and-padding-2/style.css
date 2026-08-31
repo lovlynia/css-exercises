@@ -7,7 +7,23 @@ body {
   width: 400px;
   background: white;
   margin: 16px auto;
+  padding: 10px;
 }
+
+.content,
+.button-container{
+  width: 380px;
+  background: white;
+  margin: 16px auto;
+  padding: 8px;
+}
+
+.button-container{
+  justify-content: center;
+  text-align: center;
+  padding-bottom: 8px;
+}
+
 
 .title,
 .content,
@@ -17,4 +33,9 @@ body {
 
 button {
   background: white;
+  padding: 7px;
+  justify-content: center;
+  display:block;
+  margin: 16px auto;
+
 }
