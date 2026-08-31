@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+
+.primary{
+    background-color: black;
+    color:white;
+}
+
+.secondary{
+    background-color: yellow;
+}
