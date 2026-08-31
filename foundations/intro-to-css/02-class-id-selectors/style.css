@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.one,
+.three,
+.five {
+  background: pink;
+}
+
+.two{
+    color:blue;
+    font-size: x-large;
+}
+
+.four{
+    background: lightgreen;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.three{
+    font-size: xx-large;
+}
